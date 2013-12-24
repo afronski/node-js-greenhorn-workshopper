@@ -1,6 +1,7 @@
 {
     "name": "node-js-greenhorn-workshopper",
     "version": "0.1.0",
+
     "description": "Small introduction into Node.js world.",
 
     "author": {
@@ -8,7 +9,7 @@
         "email": "afronski@gmail.com"
     },
 
-    "bin": "./nodejs-greenhorn.js",
+    "bin": "./node-js-greenhorn-workshopper.js",
     "engines": {
         "node": ">= 0.10.0"
     },

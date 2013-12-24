@@ -1,0 +1,25 @@
+Napisz i uruchom program, który wypisze tekst "Hello World!" na konsole
+(standardowe wyjscie).
+
+----------------------------------------------------------------------
+HINTS:
+
+Aby uruchomic nowy program i zobaczyc efekt, musisz do uruchomienia
+wykorzystac platforme w nastepujacy sposob:
+
+  $ node MOJ_PROGRAM.js
+
+Poniewaz Node.js jest zbudowany na V8, mozesz smialo skorzystac z tego
+samego mechanizmu obslugi konsoli co w przegladarce:
+
+  console.log("text")
+
+Aby zweryfikowac, czy zadanie zostalo poprawnie wykonane nalezy
+wykonac:
+
+   {appname} verify MOJ_PLIK.js
+
+Po wykonanych testach - jesli rozwiazanie bedzie poprawne - lekcja
+zostanie oznaczona jako "COMPLETED".
+
+----------------------------------------------------------------------

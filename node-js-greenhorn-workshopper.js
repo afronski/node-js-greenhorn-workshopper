@@ -5,8 +5,8 @@ var path = require("path"),
     Workshopper = require("workshopper");
 
 Workshopper({
-    name: "nodejs-greenhorn",
-    title: "FDD Workshop - Future Processing - 2014",
+    name: "node-js-greenhorn-workshopper",
+    title: "Node.js FDD Workshop - Future Processing - 2014",
 
     appDir: __dirname,
 

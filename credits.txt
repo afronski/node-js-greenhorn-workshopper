@@ -1,5 +1,5 @@
-{yellow}{bold}{appname} is brought to you by the following dedicated hackers:{/bold}{/yellow}
+{yellow}{bold}Autorzy i osoby majace wklad w rozwoj {appname}:{/bold}{/yellow}
 
-{bold}Name                  GitHub Username{/bold}
--------------------------------------
+{bold}Imie i nazwisko       Login z GitHub{/bold}
+------------------------------------
 Wojciech Gawroński    @afronski
