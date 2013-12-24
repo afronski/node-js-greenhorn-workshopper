@@ -17,6 +17,8 @@
     "repository": "https://github.com/afronski/node-js-greenhorn-workshopper",
 
     "dependencies": {
+        "boganipsum": "~0.1.0",
+        "through": "~2.3.4",
         "workshopper": "~0.5.0"
     },
 
