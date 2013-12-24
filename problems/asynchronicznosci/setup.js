@@ -10,8 +10,8 @@ var fs = require("fs"),
 module.exports = function () {
     var lines = Math.ceil(Math.random() * 50),
         txt = boganipsum({ paragraphs: lines }),
-        file = path.join(os.tmpDir(), "learnyounode_" + process.pid + ".tmp"),
-        trackFile = path.join(os.tmpDir(), "learnyounode_" + process.pid + ".json");
+        file = path.join(os.tmpDir(), "node_js_greenhorn_workshopper" + process.pid + ".tmp"),
+        trackFile = path.join(os.tmpDir(), "node_js_greenhorn_workshopper" + process.pid + ".json");
 
     fs.writeFileSync(file, txt, "utf8");
 
