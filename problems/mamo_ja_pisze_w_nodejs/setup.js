@@ -1,3 +1,8 @@
+"use strict";
+
 module.exports = function () {
-  return { args: [], stdin: null }
-}
+    return {
+        args: [ "Hello World!" ],
+        stdin: null
+    };
+};

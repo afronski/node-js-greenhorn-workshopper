@@ -2,7 +2,7 @@ Napisz i uruchom program, który wypisze tekst "Hello World!" na konsole
 (standardowe wyjscie).
 
 ----------------------------------------------------------------------
-HINTS:
+WSKAZOWKI:
 
 Aby uruchomic nowy program i zobaczyc efekt, musisz do uruchomienia
 wykorzystac platforme w nastepujacy sposob:

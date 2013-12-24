@@ -1,25 +1,16 @@
-Napisz i uruchom program, który wypisze tekst "Hello World!" na konsole
-(standardowe wyjscie).
+Napisz modul, który wyeksportuje dokladnie dwie funkcje. Obie powinny
+oczekiwac dwoch parametrow - pierwsza z nich, ktora powinna zostac
+wyeksportowana z nazwa `add` sumuje podane argumenty i wypisuje sumę
+na konsolę.
+
+Druga z nich, wyeksportowana jako `sub` odejmuje argumenty od siebie
+i również wypisuje wynik na standardowe wyjscie.
 
 ----------------------------------------------------------------------
-HINTS:
+WSKAZOWKI:
 
-Aby uruchomic nowy program i zobaczyc efekt, musisz do uruchomienia
-wykorzystac platforme w nastepujacy sposob:
+Zapoznaj się z dokumentacją:
 
-  $ node MOJ_PROGRAM.js
-
-Poniewaz Node.js jest zbudowany na V8, mozesz smialo skorzystac z tego
-samego mechanizmu obslugi konsoli co w przegladarce:
-
-  console.log("text")
-
-Aby zweryfikowac, czy zadanie zostalo poprawnie wykonane nalezy
-wykonac:
-
-   {appname} verify MOJ_PLIK.js
-
-Po wykonanych testach - jesli rozwiazanie bedzie poprawne - lekcja
-zostanie oznaczona jako "COMPLETED".
+{rootdir:/node_apidoc/modules.html}
 
 ----------------------------------------------------------------------

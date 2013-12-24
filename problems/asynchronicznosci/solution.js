@@ -1,8 +1,12 @@
-var fs = require('fs')
-var file = process.argv[2]
+"use strict";
+
+var fs = require("fs"),
+    os = require("os"),
+
+    file = process.argv[2];
 
 fs.readFile(file, function (err, contents) {
-  // fs.readFile(file, 'utf8', callback) can also be used
-  var lines = contents.toString().split('\n').length - 1
-  console.log(lines)
-})
+  var lines = contents.toString().split(os.EOL).length - 1;
+
+  console.log(lines);
+});

@@ -12,7 +12,7 @@ zerami miesiaca, dnia, godziny i minut, np.:
   2013-07-06 07:42
 
 ----------------------------------------------------------------------
-HINTS:
+WSKAZOWKI:
 
 W tym zadaniu potrzebny nam bedzie modul `net` oraz funkcja
 `createServer`. Dokumentacje modulu znajdziesz tutaj:

@@ -2,4 +2,5 @@
 
   Oficjalne repozytorium dla {appname} znajduje sie pod adresem:
     https://github.com/afronski/node-js-greenhorn-workshopper/
+
   Bez wahania stworz zadanie lub opisz blad, lub jeszcze lepiej - otworz "Pull Request".

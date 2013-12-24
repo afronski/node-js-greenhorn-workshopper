@@ -11,5 +11,9 @@ Workshopper({
     appDir: __dirname,
 
     helpFile: path.join(__dirname, "help.txt"),
-    creditsFile: path.join(__dirname, "credits.txt")
+    creditsFile: path.join(__dirname, "credits.txt"),
+
+    menu: {
+        bg: "green"
+    }
 }).init()
