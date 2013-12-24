@@ -1,0 +1,23 @@
+{
+    "name": "node-js-greenhorn-workshopper",
+    "version": "0.1.0",
+    "description": "Small introduction into Node.js world.",
+
+    "author": {
+        "name": "Wojciech Gawroński",
+        "email": "afronski@gmail.com"
+    },
+
+    "bin": "./nodejs-greenhorn.js",
+    "engines": {
+        "node": ">= 0.10.0"
+    },
+
+    "repository": "https://github.com/afronski/node-js-greenhorn-workshopper",
+
+    "dependencies": {
+        "workshopper": "~0.5.0"
+    },
+
+    "preferGlobal": true
+}
